@@ -36,7 +36,11 @@ public class Practice {
 		System.out.println(after1);
 		
 		practice.empName();
+<<<<<<< HEAD
 		System.out.println("changes made in perf, have to move to master");
+=======
+		System.out.println("commit dev to master");
+>>>>>>> 56f3981d40538a38ea843457ab62c195cd4ce3db
 		
 		
 		
